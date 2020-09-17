@@ -11,7 +11,7 @@ public class constantes {
 		// constante---------------------------------------
 		final int numer = 10;
 		System.out.println("el numero constante es "+numer);
-		 
+		  
 	}
 
 }
